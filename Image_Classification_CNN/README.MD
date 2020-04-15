@@ -1,1 +1,0 @@
-# Classify MNIST image
