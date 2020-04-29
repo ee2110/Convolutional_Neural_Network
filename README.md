@@ -1,1 +1,1 @@
-# Convolutional_Neural_Network_-CNN-
+# Convolutional Neural Network (CNN)
