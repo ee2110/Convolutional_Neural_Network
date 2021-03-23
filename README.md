@@ -7,3 +7,9 @@ Convolutional neural networks therefore constitute a very useful tool for machin
 <ol>
 <li>once the CNN has learned to recognize a pattern in one location, it can recognize it in any other location. In contrast, once a regular DNN has learned to recognize a pattern in one location, it can recognize it only in that particular location.</li>
 </ol>
+
+
+## References
+1) https://cs231n.github.io/convolutional-networks/
+2) https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53
+3) https://indoml.com/2018/03/07/student-notes-convolutional-neural-networks-cnn-introduction/
