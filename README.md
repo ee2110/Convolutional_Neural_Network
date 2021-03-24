@@ -8,6 +8,10 @@ Convolutional neural networks therefore constitute a very useful tool for machin
 <li>once the CNN has learned to recognize a pattern in one location, it can recognize it in any other location. In contrast, once a regular DNN has learned to recognize a pattern in one location, it can recognize it only in that particular location.</li>
 </ol>
 
+## Techniques to handle overfitting issue:
+1) Check on training and validation accuracy over the training to identify overfitting issue.
+2) Image augmentation
+3) Dropout
 
 ## References
 1) https://cs231n.github.io/convolutional-networks/

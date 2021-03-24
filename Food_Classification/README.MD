@@ -8,6 +8,10 @@ The dataset used in this repo is Recipes5k comprehensive dataset for ingredients
 <li>Nearly 50 alternative recipes belonging to each of the 101 classes were divided in train, val and test splits in a balanced way.</li>
 </ul>
 
+## Process Flow
+1) Import libraries
+2) Load dataset
+
 
 ## References
 1) Recipes5k
