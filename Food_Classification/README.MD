@@ -24,10 +24,10 @@ The dataset used in this repo is Recipes5k comprehensive dataset for ingredients
 ## Test results
 Here are some simple test results for a glance on various model performance.
 
-| Models        | F1 Score |
+| Models        | F1 Score 	|
 | ------------- | ------------- |
-| DNN_Softmax   |         0.66  |
-| DNN_Sigmoid   |   |
+| DNN_Softmax   |     0.66  	|
+| DNN_Sigmoid   |     0.50	|
 
 ## References
 1) Recipes5k dataset
