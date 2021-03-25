@@ -24,10 +24,19 @@ The dataset used in this repo is Recipes5k comprehensive dataset for ingredients
 ## Test results
 Here are some simple test results for a glance on various model performance.
 
-| Models        | F1 Score 	|
-| ------------- | ------------- |
-| DNN_Softmax   |     0.66  	|
-| DNN_Sigmoid   |     0.50	|
+## Binary Classification
+
+| Models        | F1 Score micro | F1 Score macro | F1 Score weighted|    Avg acc   |    Avg acc   |    Avg acc   |    Avg acc   |
+| ------------- | -------------- | -------------- |  --------------- | ------------ | ------------ | ------------ | ------------ |
+| DNN_Softmax   |     1.00  	 |     1.00 	  |     1.00  	     |      0.77    |      0.76    |      0.74    |      0.66    |
+| DNN_Sigmoid   |     0.75	 |     0.73  	  |     0.73  	     |      0.77    |      0.76    |      0.74    |      0.68    |
+
+## MultiClass Classification
+
+| Models        | F1 Score micro | F1 Score macro | F1 Score weighted|    Avg acc   |    Avg acc   |    Avg acc   |    Avg acc   |
+| ------------- | -------------- | -------------- |  --------------- | ------------ | ------------ | ------------ | ------------ |
+| DNN_Softmax   |     0.15  	 |     0.092  	  |     0.091  	     |      0.16    |      0.17    |      2.34    |      2.29    |
+| DNN_Sigmoid   |     0.091	 |     0.091  	  |     0.73  	     |      0.77    |      0.76    |      0.74    |      0.68    |
 
 ## References
 1) Recipes5k dataset
