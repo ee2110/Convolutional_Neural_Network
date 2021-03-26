@@ -16,4 +16,5 @@ Convolutional neural networks therefore constitute a very useful tool for machin
 ## References
 1) https://cs231n.github.io/convolutional-networks/
 2) https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53
-3) https://indoml.com/2018/03/07/student-notes-convolutional-neural-networks-cnn-introduction/
+3) https://towardsdatascience.com/understanding-your-convolution-network-with-visualizations-a4883441533b
+4) https://indoml.com/2018/03/07/student-notes-convolutional-neural-networks-cnn-introduction/

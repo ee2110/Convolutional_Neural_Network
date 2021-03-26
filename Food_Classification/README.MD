@@ -26,17 +26,21 @@ Here are some simple test results for a glance on various model performance.
 
 ## Binary Classification
 
-| Models        | F1 Score micro | F1 Score macro | F1 Score weighted|    Avg acc   |    Avg acc   |    Avg acc   |    Avg acc   |
+| Models        | F1 Score micro | F1 Score macro | F1 Score weighted|    Avg acc   | Avg val acc  |   Avg loss   | Avg val loss |
 | ------------- | -------------- | -------------- |  --------------- | ------------ | ------------ | ------------ | ------------ |
 | DNN_Softmax   |     1.00  	 |     1.00 	  |     1.00  	     |      0.77    |      0.76    |      0.74    |      0.66    |
 | DNN_Sigmoid   |     0.75	 |     0.73  	  |     0.73  	     |      0.77    |      0.76    |      0.74    |      0.68    |
 
 ## MultiClass Classification
 
-| Models        | F1 Score micro | F1 Score macro | F1 Score weighted|    Avg acc   |    Avg acc   |    Avg acc   |    Avg acc   |
+| Models        | F1 Score micro | F1 Score macro | F1 Score weighted|    Avg acc   | Avg val acc  |   Avg loss   | Avg val loss |
 | ------------- | -------------- | -------------- |  --------------- | ------------ | ------------ | ------------ | ------------ |
 | DNN_Softmax   |     0.15  	 |     0.092  	  |     0.091  	     |      0.16    |      0.17    |      2.34    |      2.29    |
-| DNN_Sigmoid   |     0.091	 |     0.091  	  |     0.73  	     |      0.77    |      0.76    |      0.74    |      0.68    |
+| Basic CNN     |     0.50	 |     0.44  	  |     0.44  	     |      0.50    |      0.39    |      1.33    |      1.89    |
+| MobileNet v2  |     0.091	 |     0.091  	  |     0.73  	     |      0.77    |      0.76    |      0.74    |      0.68    |
+| Basic CNN     |     0.091	 |     0.091  	  |     0.73  	     |      0.77    |      0.76    |      0.74    |      0.68    |
+| Basic CNN     |     0.091	 |     0.091  	  |     0.73  	     |      0.77    |      0.76    |      0.74    |      0.68    |
+
 
 ## References
 1) Recipes5k dataset
