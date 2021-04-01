@@ -40,8 +40,22 @@ Here are some simple test results for a glance on various model performance.
 | DNN_Softmax   |     0.15  	 |     0.092  	  |     0.091  	     |      0.16    |      0.17    |      2.34    |      2.29    |
 | Basic CNN     |     0.50	 |     0.44  	  |     0.44  	     |      0.50    |      0.39    |      1.33    |      1.89    |
 | MobileNet-v2  |     0.85	 |     0.81  	  |     0.81  	     |      0.95    |      0.83    |      0.16    |      0.48    |
+| ResNet-V2_50  |     0.90	 |     0.86  	  |     0.86  	     |      0.95    |      0.76    |      0.17    |      0.82    |
 | Basic CNN     |     0.091	 |     0.091  	  |     0.73  	     |      0.77    |      0.76    |      0.74    |      0.68    |
-| Basic CNN     |     0.091	 |     0.091  	  |     0.73  	     |      0.77    |      0.76    |      0.74    |      0.68    |
+
+
+## Discussion
+
+From the general results, we can noticed that certain models are perform well. As a reminder again, these experiments are only apply small amount of dataset and
+
+## Future Works
+For further experiments, we can perform following:
+
+<ol>
+<li>Use TensorFlow callbacks early stopping to determine the optimum training epoch number.</li>
+<li>Fine tune models to maximize performance.</li>
+<li>Add on training duration of every model to compare the speed. Provided all experiment are execute in same machine.</li>
+</ol>
 
 
 ## References
