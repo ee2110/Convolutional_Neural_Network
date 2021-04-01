@@ -30,8 +30,8 @@ Here are some simple test results for a glance on various model performance.
 | ------------- | -------------- | -------------- |  --------------- | ------------ | ------------ | ------------ | ------------ |
 | DNN_Softmax   |     1.00  	 |     1.00 	  |     1.00  	     |      0.77    |      0.76    |      0.74    |      0.66    |
 | DNN_Sigmoid   |     0.75	 |     0.73  	  |     0.73  	     |      0.77    |      0.76    |      0.74    |      0.68    |
-| Basic CNN     |     -	 |     -  	  |     -  	     |      -    |      -    |      -    |      -    |
-| MobileNet-v2  |     -	 |     -  	  |     -  	     |      -    |      -    |      -    |      -    |
+| Basic CNN     |     1.00  	 |     1.00 	  |     1.00  	     |      0.51    |      0.41    |      0.71    |      0.83    |
+| MobileNet-v2  |     1.00	 |     1.00  	  |     1.00  	     |      0.99    |      0.99    |      0.033   |      0.008   |
 
 ## MultiClass Classification
 
