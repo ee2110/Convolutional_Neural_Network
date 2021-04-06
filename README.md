@@ -19,3 +19,4 @@ Convolutional neural networks therefore constitute a very useful tool for machin
 3) https://towardsdatascience.com/understanding-your-convolution-network-with-visualizations-a4883441533b
 4) https://indoml.com/2018/03/07/student-notes-convolutional-neural-networks-cnn-introduction/
 5) Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun: "<a href="https://arxiv.org/abs/1512.03385">Deep Residual Learning for Image Recognition</a>", 2015.
+6) Karen Simonyan, Andrew Zisserman: "<a href="https://arxiv.org/abs/1409.1556">Very Deep Convolutional Networks for Large-Scale Image Recognition</a>", 2015.
