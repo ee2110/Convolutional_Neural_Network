@@ -13,6 +13,12 @@ Convolutional neural networks therefore constitute a very useful tool for machin
 2) Image augmentation
 3) Dropout
 
+# CNN Architectures
+
+<ul>
+<li>VGG Net 16</li>
+</ul>
+
 ## References
 1) https://cs231n.github.io/convolutional-networks/
 2) https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53
