@@ -19,10 +19,15 @@ Convolutional neural networks therefore constitute a very useful tool for machin
 <li>Deep Neural Network</li>
 <li>Basic Convolutional Network</li>
 <li>MobileNet-v2</li>
-<li>ResNet-V2-50</li>
-<li>VGG Net 16</li>
-<li></li>
 
+<li>ResNet-V2-50</li>
+<p>ResNet is a residual learning framework</p>
+
+<li>VGG Net 16</li>
+<p>The key innovation on the inception model is called the inception module. This is a block of parallel convolutional layers with different sized filters (e.g. 1×1, 3×3, 5×5) and a and 3×3 max pooling layer, the results of which are then concatenated.</p>
+
+<li></li>
+<p>The key innovation on the inception model is called the inception module. This is a block of parallel convolutional layers with different sized filters (e.g. 1×1, 3×3, 5×5) and a and 3×3 max pooling layer, the results of which are then concatenated.</p>
 </ul>
 
 ## References
@@ -32,4 +37,4 @@ Convolutional neural networks therefore constitute a very useful tool for machin
 4) https://indoml.com/2018/03/07/student-notes-convolutional-neural-networks-cnn-introduction/
 5) Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun: "<a href="https://arxiv.org/abs/1512.03385">Deep Residual Learning for Image Recognition</a>", 2015.
 6) Karen Simonyan, Andrew Zisserman: "<a href="https://arxiv.org/abs/1409.1556">Very Deep Convolutional Networks for Large-Scale Image Recognition</a>", 2015.
-7) Christian Szegedy et al : "<a href="https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf">Going Deeper With Convolutions</a>", 2015.
+7) Christian Szegedy, et al. : "<a href="https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf">Going Deeper With Convolutions</a>", 2015.
