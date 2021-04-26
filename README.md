@@ -21,13 +21,13 @@ Convolutional neural networks therefore constitute a very useful tool for machin
 <li>MobileNet-v2</li>
 
 <li>ResNet-V2-50</li>
-<p>ResNet is a residual learning framework</p>
+<p>ResNet is using residual module in learning. It utilize deep residual model which is a block of two convolutional layers with the same number of filters and a small filter size where the output of the second layer is added with the input to the first convolutional layer. The shortcut connection is inserted into between two convolutional layers.</p>
 
 <li>VGG Net 16</li>
-<p>The key innovation on the inception model is called the inception module. This is a block of parallel convolutional layers with different sized filters (e.g. 1×1, 3×3, 5×5) and a and 3×3 max pooling layer, the results of which are then concatenated.</p>
+<p>The VGG convolutional neural network architecture, named for the Visual Geometry Group at Oxford which is a stack of convolutional layers blocks with different number of small size 3x3 convolution filters and followed by 2x2 max pooling layer. VGG 16 has 5 convolutional blocks and 3 fully connected layers.</p>
 
-<li></li>
-<p>The key innovation on the inception model is called the inception module. This is a block of parallel convolutional layers with different sized filters (e.g. 1×1, 3×3, 5×5) and a and 3×3 max pooling layer, the results of which are then concatenated.</p>
+<li>Inception</li>
+<p>Inception model consists of inception network which consisting of modules of the above type stacked upon each other, with occasional max-pooling layers with stride 2 to halve the resolution of the grid. It has parallel convolutional layers with different sized filters (e.g. 1×1, 3×3, 5×5) and a and 3×3 max pooling layer, the results of which are then concatenated.</p>
 </ul>
 
 ## References
