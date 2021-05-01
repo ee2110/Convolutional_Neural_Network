@@ -27,7 +27,7 @@ Convolutional neural networks therefore constitute a very useful tool for machin
 <p>The VGG convolutional neural network architecture, named for the Visual Geometry Group at Oxford which is a stack of convolutional layers blocks with different number of small size 3x3 convolution filters and followed by 2x2 max pooling layer. VGG 16 has 5 convolutional blocks and 3 fully connected layers.</p>
 
 <li>Inception</li>
-<p>Inception model consists of inception network which consisting of modules of the above type stacked upon each other, with occasional max-pooling layers with stride 2 to halve the resolution of the grid. It has parallel convolutional layers with different sized filters (e.g. 1×1, 3×3, 5×5) and a and 3×3 max pooling layer, the results of which are then concatenated.</p>
+<p>Inception model consists of inception network which consisting of parallel convolutional layers with different size filters (e.g. 1×1, 3×3, 5×5) and a and 3×3 max pooling layer, the results of which are then concatenated. It learn parallel filters of the same size as well as parallel filters of differing sizes.</p>
 </ul>
 
 ## References
