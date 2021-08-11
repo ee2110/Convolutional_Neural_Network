@@ -18,7 +18,7 @@ The dataset used in this repo is Recipes5k comprehensive dataset for ingredients
 7) Testing data
 8) Tuning and further experiment with various settings.
 
-### Notes: These models are trained with limited small datasets and only tested with small amount of samples, thus, it is insufficient for production. Further research works and improvement on dataset and models will be carried out continuously.
+### Notes: These models are trained with limited small datasets and only tested with small amount of samples, thus, it is insufficient to determine the accuracy. Further research works and improvement on dataset and models will be carried out continuously.
 
 
 ## Test results
